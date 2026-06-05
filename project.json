@@ -1,0 +1,15 @@
+{
+  "overview": "A simple Hello World app displaying centered text on a clean page.",
+  "features": [
+    "Displays 'Hello World' centered on the page",
+    "Minimal clean styling",
+    "Responsive layout"
+  ],
+  "category": "showcase",
+  "tags": [
+    "hello-world",
+    "minimal",
+    "frontend"
+  ],
+  "last_updated": "2026-06-05T13:30:43.303Z"
+}
